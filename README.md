@@ -8,6 +8,7 @@ The test scripts are written based on Selenium and Java Frontend Automation Suit
 
 Steps to Execute
 
+Clone master branch from GIT Repository.
 Clone the project from GIT to local machine with below dependencies -- JAVA Sdk, Apache Maven, Selenium Webdriver (chromedriver or geckodriver).
 Currently the script supports Chrome and Firefox browsers only.
 
